@@ -7,5 +7,5 @@ npm install
 npm run cy:run:cucumber
 
 ## Generating reports
-npm run reporter:merge
+npm run reporter:merge <br>
 npm run reporter:mocha
